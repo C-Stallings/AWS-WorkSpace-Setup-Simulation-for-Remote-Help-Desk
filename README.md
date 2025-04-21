@@ -1,6 +1,6 @@
 # AWS WorkSpace Setup Simulation for Remote Help Desk
 
-## 📋 Project Overview
+## Project Overview
 
 This project simulates the provisioning of a secure, cloud-based Windows desktop environment using **AWS WorkSpaces**. It is designed to reflect a typical use case for onboarding remote employees and supporting help desk ticket workflows.
 
@@ -8,7 +8,7 @@ This project simulates the provisioning of a secure, cloud-based Windows desktop
 **IAM User**: `jamie`  
 **Tools Used**: AWS Console (WorkSpaces, IAM), Screenshots, Documentation
 
-## 📁 Project Structure
+## Project Structure
 
 <p align="center">
   <img 
@@ -21,7 +21,7 @@ This project simulates the provisioning of a secure, cloud-based Windows desktop
 
 ---
 
-## 🚀 Step-by-Step Setup
+## Step-by-Step Setup
 
 ### Step 1: Create IAM User - `jamie`
 - Navigate to **IAM** in the AWS Console.
@@ -93,7 +93,7 @@ This project simulates the provisioning of a secure, cloud-based Windows desktop
 
 ---
 
-## 🔐 Group Policy and Permissions
+## Group Policy and Permissions
 
 **Group Name**: `WorkSpacesUsers`  
 **Attached Policies**:
@@ -104,7 +104,7 @@ This project simulates the provisioning of a secure, cloud-based Windows desktop
 
 ---
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 - IAM enables **secure and scalable access control** for user management.
 - AWS WorkSpaces supports **hybrid workforces** with minimal infrastructure overhead.
